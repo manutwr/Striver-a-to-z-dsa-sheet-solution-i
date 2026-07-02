@@ -10,7 +10,7 @@ public:
       // fir loop chalega aur sum 7 h ab value ayi i ki 5 to 7+5= 12 
       // fir loop 12+6........ and continue 
          return sum;
-    // return me value save ho gyi aur platform ke paas ans chala gyaaa    ..............
+    // return me value save ho gyi aur platform ke paas ans chala gyaaa    ..................
     
     } 
   
