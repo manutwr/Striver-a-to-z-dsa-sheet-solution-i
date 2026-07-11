@@ -2,7 +2,7 @@ class Solution {
 public:
     void studentGrade(int marks) {
 
-
+// marks calculation 
 
 
 if(marks>=90){
