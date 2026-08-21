@@ -11,7 +11,7 @@ else if (marks>=70){
     cout<<"Grade B ";
 }
 else if (marks>=50)
-{
+{  
     cout<<"Grade C";
 }
 else if (marks>=35)
