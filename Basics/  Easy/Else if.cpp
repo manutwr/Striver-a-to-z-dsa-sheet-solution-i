@@ -3,7 +3,7 @@ public:
     void studentGrade(int marks) {
         
 
-
+ 
 if(marks>=90){
     cout<<"Grade A";
 }
