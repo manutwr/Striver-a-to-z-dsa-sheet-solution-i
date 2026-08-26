@@ -9,7 +9,7 @@ public:
         // Loop until all digits are processed
         while (n > 0) {
             // Get the last digit
-            int lastDigit = n % 10;
+            int lastDigit = n % 10; 
 
             // Append it to the reversed number
             revNum = revNum * 10 + lastDigit;
