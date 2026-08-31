@@ -11,7 +11,7 @@ public:
       // fir loop 12+6........ and continue 
          return sum;
     // return me value save ho gyi aur platform ke paas ans chala gyaaa    ..................
-    
+         
     } 
   
 };
