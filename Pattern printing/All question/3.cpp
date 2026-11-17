@@ -7,7 +7,7 @@ public:
 
         }
         cout <<endl;
-      }
+      } 
     }
 };
 
